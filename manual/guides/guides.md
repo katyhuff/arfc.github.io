@@ -33,7 +33,7 @@ you can really fly.
 - Add yourself to [this website.](/manual/guides/website)
 - Install other software you'll need.
 - Handle HR stuff.
-- Register for [classes](/manual/guides/classes).
+- Register for [classes](https://courses.illinois.edu).
 - Explore [Chambana](https://localwiki.org/cu/).
 
 # Dealing with Katy
@@ -42,10 +42,15 @@ Here are some ways to interact with me that will make my life (and sometimes
 yours) easier. 
 
 - [Scheduling to meet with Katy](/manual/guides/katy/meeting)
+- [Course Advising](/manual/guides/katy/advising)
 - [Requesting a recommendation letter](/manual/guides/katy/recreq)
 - [Requesting comments on a document](/manual/guides/katy/revreq)
 - [Requesting help with software](/manual/guides/katy/codereq)
 - [Asking Katy to be on your PhD committee](/manual/guides/katy/commreq)
+
+# Administrative
+
+- [travel](/manual/guides/travel)
 
 # Communication
 
@@ -55,46 +60,39 @@ prepared to make use of the various meetings, listhosts, chat media, calendars,
 twitter accounts, and whatnot that tie us together.
 
 
-# Installation 
+# Academics
 
-- install git
-- install python
-- install pyne
-- install moose
-
-# Administrative
-
-- [travel](/manual/guides/travel)
-- purchasing
-- printing
-- internet
-- courses
+- [courses](https://courses.illinois.edu/)
 - qualifying exam
 - thesis proposal
-- editing this website 
+- masters thesis
+- dissertation 
+
 
 # Software
 
-- prototyping
-- collaborating
-- pull requests
-- issues
-- releases
-- data management
-- cloud computing
+- [prototyping](/manual/guides/prototyping/)
+- [collaborating on GitHub](/manual/guides/gh-collaborating/)
+- [GitHub issues](/manual/guides/gh-issues)
+- [GitHub pull requests](/manual/guides/gh-prs)
+- [GitHub PR reviews](/manual/guides/gh-pr-reviews)
+- [releases](/manual/guides/releases)
+- [data management](/manual/guides/data)
+- [cloud computing](/manual/guides/cloud)
 - [using Blue Waters](/manual/guides/bluewaters)
+- [editing this website](/manual/guides/website) 
 
 # Writing Papers
 
-- how to write
-- what to write
-- where to submit
-- paper templates
+- [how to write]()
+- [what to write]()
+- [where to submit]()
+- [paper templates]()
 
 # Presenting Work
 
 - how to present
 - what to present
 - where to present
-- paper templates
+- presentation templates
 

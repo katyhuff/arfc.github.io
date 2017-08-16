@@ -39,8 +39,9 @@ See below for directions on all of these.
 6. Check whether your changes succeeded by typing `jekyll serve` from the top 
    level directory of the website repository. Then, open a browser to 
    `localhost:4000`.
-7. When you're satisfied, push your changes to your own fork. 
-8. Finally make a pull request from your source directory to mine. 
+7. When you're satisfied, push your changes to your own fork.
+8. Finally make a pull request from your source directory to the repository at 
+   `git@github.com:arfc/arfc.github.io`. 
 
 If you're feeling confident, you can skip the pull request. Instead, you can 
 just push changes to the website directly with the command `rake publish`. Only 
