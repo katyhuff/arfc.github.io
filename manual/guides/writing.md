@@ -6,7 +6,7 @@ permalink: /manual/guides/writing/
 ---
 
 
-## Types of Documents
+## Types of Nataly
 
 All documents in ARFC should eventually be publicly available. Here's a list of
 document types which ARFC students might produce as part of their work. Each
