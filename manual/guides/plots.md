@@ -11,6 +11,48 @@ accessible and visually clear. By following these simple recommendations, you
 will make your work more inclusive, readable, and aligned with accessibility
 standards.
 
+## 0. Labels, Captions, and Context
+
+First of all, it must be made abundantly clear what information is being 
+conveyed in the plot. The plot should have a caption (and/or a title), axis labels, and 
+a legend, at minimum. 
+
+### 0.1 Caption
+
+Every plot must have a caption. 
+In an ideal world, the first part of the caption also acts as the title of the figure. 
+That is, the title is usually not shown above the figure (as you might do for a 
+table). Instead, the title is the first sentence, or so, or the caption block.  
+LaTeX does this automatically if you use the syntax below. This syntax allows 
+the Short Title to appear before the longer caption description and also for 
+the Short Title be used in the list of figures or table of contents at the 
+front of the document. 
+
+```
+\caption[Short Title]%
+{Short Title - Long Description}
+```
+
+The title should convey the main idea (Wall temperature variation over time.) 
+while the caption should provide sufficient context (The temperature at the 
+midpoint of the inner wall of the pressure vessel was measured with ACME 
+thermocouples from Hot Zero Power to the end of the reactor transient. The peak 
+temperature was experienced at t=340 seconds.)
+
+
+### 0.2 Axis Labels
+All axes (x, y, z, twin, etc.) must have a clear label. This typically includes 
+an English name for the value, a symbol representing the value, and units. For 
+example:
+
+```
+$m_U $Uranium Mass(kg)
+
+
+
+### 0.3 Legend
+
+
 
 ## 1. Using Color
 
